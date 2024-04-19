@@ -1,0 +1,60 @@
+{
+  "aboutUs": {
+    "title": "About Us",
+    "content": "At Meem Quran Academy, our mission is to democratize online tutoring services, ensuring accessibility for all. We strive to create a comfortable and stress-free learning environment globally. Prioritizing affordability, we've conducted over a million successful online classNamees in the past decade. Committed to academic success, our team works passionately to empower students in the comfort of their homes. EduLearnHub is dedicated to making high-quality tutoring accessible, fostering a future where learning knows no boundaries",
+    "image": "/Assets/tution.jpg",
+    "imageAlt": "A group of People"
+  },
+  "ourStory": {
+    "title": "Our Story",
+    "content": "At Meem Quran Academy, our journey was shaped by the challenges of the pandemic, compelling us to innovate. We introduced a state-of-the-art Learning Management System, enhancing the online learning experience for students and parents. With a dedicated team of over 200 teachers, we conduct 15,000 monthly classNamees, surpassing a million successful sessions in the past decade. Despite the hurdles of 2020, our commitment to providing a robust educational foundation remained unwavering. Emerging stronger, we look ahead to a future of continued excellence, fueled by our innovative LMS and a team dedicated to shaping the educational landscape. The story of EduLearnHub is one of resilience, ambition, and a relentless pursuit of educational excellence"
+  },
+  "teamMembers": [
+    {
+      "name": "Alexa",
+      "image": "https://i.ibb.co/FYTKDG6/Rectangle-118-2.png",
+      "imageAlt": "Alexa featured Img"
+    },
+    {
+      "name": "Olivia",
+      "image": "https://i.ibb.co/fGmxhVy/Rectangle-119.png",
+      "imageAlt": "Olivia featured Img"
+    },
+    {
+      "name": "Liam",
+      "image": "https://i.ibb.co/Pc6XVVC/Rectangle-120.png",
+      "imageAlt": "Liam featued Img"
+    },
+    {
+      "name": "Elijah",
+      "image": "https://i.ibb.co/7nSJPXQ/Rectangle-121.png",
+      "imageAlt": "Elijah featured img"
+    }
+  ],
+  "teamMembersSpecial": [
+    {
+      "id": "1",
+      "name": "Seenan Zahoor",
+      "role": "Chief Executive Officer",
+      "description": "The CEO's role in raising a company's corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.",
+      "image": "/Assets/Tutor-1.png",
+      "social": {
+        "github": "https://github.com/example1",
+        "twitter": "https://twitter.com/example1",
+        "instagram": "https://instagram.com/example1"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Andres Berlin",
+      "role": "Chief Executive Officer",
+      "description": "The CEO's role in raising a company's corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.",
+      "image": "https://cdn.tuk.dev/assets/photo-1564061170517-d3907caa96ea.jfif",
+      "social": {
+        "github": "https://github.com/example1",
+        "twitter": "https://twitter.com/example1",
+        "instagram": "https://instagram.com/example1"
+      }
+    }
+  ]
+}

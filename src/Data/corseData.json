@@ -1,0 +1,440 @@
+[
+  {
+    "courseTitle": "Arabic",
+    "refrence": "/arabic",
+    "imageSource": "/Assets/Arabic.png",
+    "Alt": "image of arabic course",
+    "image": "/Assets/Arabic-02.jpg",
+    "Coursedetails": [
+      {
+        "category": "Primary School",
+        "title": "Comprehensive Arabic Program",
+        "overview": "Immerse yourself in the rich world of Arabic language with our comprehensive program designed for primary school students. This program is carefully crafted to introduce and develop language skills in an interactive and engaging manner.",
+        "highlights": [
+          "Embark on a journey through a progressive curriculum that covers basic to advanced Arabic language skills.",
+          "Experience learning through a variety of engaging materials, including interactive lessons, captivating videos, and hands-on activities.",
+          "Sharpen your reading, writing, speaking, and listening skills through well-designed exercises and practical applications.",
+          "Build a strong linguistic foundation with focused lessons on grammar and vocabulary.",
+          "Explore the richness of Arabic culture through literature, stimulating discussions, and creative projects."
+        ]
+      },
+      {
+        "category": "Middle School",
+        "title": "Exploratory Arabic Studies",
+        "ImageHref": "https://i.ibb.co/PT7ghRs/image-06.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Dive deeper into the beauty of the Arabic language in our Middle School program. Designed for curious minds, this course offers an exploratory approach to Arabic studies, combining language skills with cultural insights.",
+        "highlights": [
+          "Explore advanced topics in Arabic grammar and vocabulary.",
+          "Engage in immersive learning experiences through multimedia resources.",
+          "Develop conversational skills with interactive activities and group discussions.",
+          "Enhance writing proficiency through creative projects and written assignments."
+        ]
+      },
+      {
+        "category": "High School",
+        "title": "Advanced Arabic Studies",
+        "ImageHref": "https://i.ibb.co/vkt8C1P/image-02.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Challenge yourself with our High School Arabic Studies program, designed for students seeking advanced language proficiency. This program delves into complex linguistic concepts and encourages critical thinking in Arabic language studies.",
+        "highlights": [
+          "Master advanced grammar structures and expand your Arabic vocabulary.",
+          "Participate in in-depth discussions on literature, current events, and cultural topics.",
+          "Refine writing skills through essays, research projects, and creative writing.",
+          "Prepare for higher education language requirements with comprehensive language training."
+        ]
+      },
+      {
+        "category": "Higher Secondary School",
+        "title": "Arabic Language Mastery",
+        "ImageHref": "https://i.ibb.co/3FKqS1G/image-03.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Achieve language mastery in Arabic with our Higher Secondary School program. Tailored for students preparing for higher education, this course focuses on advanced language skills, cultural understanding, and preparation for standardized exams.",
+        "highlights": [
+          "Perfect your command of Arabic grammar, syntax, and complex linguistic structures.",
+          "Engage in critical analysis of Arabic literature, history, and contemporary issues.",
+          "Hone advanced writing skills through academic essays, research papers, and linguistic analysis.",
+          "Prepare for standardized language exams with targeted exam strategies and practice."
+        ]
+      }
+    ]
+  },
+  {
+    "courseTitle": "Quran",
+    "refrence": "/quran",
+    "imageSource": "/Assets/Quran-01.jpg",
+    "alt": "image of Quranic Studies course",
+    "image": "/Assets/Quran.png",
+    "Coursedetails": [
+      {
+        "category": "Primary School",
+        "title": "Introduction to Quranic Studies",
+        "overview": "Introduce young learners to the teachings of the Quran with our Primary School Quranic Studies program. This course aims to build a strong foundation in understanding the basic principles, stories, and lessons from the Quran in an age-appropriate and engaging manner.",
+        "highlights": [
+          "Learn basic Quranic verses, stories, and moral lessons.",
+          "Engage in interactive storytelling and activities to enhance comprehension.",
+          "Develop an appreciation for the moral and ethical teachings of the Quran.",
+          "Explore the basic principles of Islam and its impact on daily life."
+        ]
+      },
+      {
+        "category": "Middle School",
+        "title": "Explorations in Quranic Knowledge",
+        "imageHref": "https://i.ibb.co/PT7ghRs/image-06.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Delve deeper into the wealth of Quranic knowledge with our Middle School program. This course explores advanced Quranic concepts, stories, and encourages students to contemplate the deeper meanings of the Quranic verses.",
+        "highlights": [
+          "Explore selected chapters (Surahs) and verses of the Quran.",
+          "Engage in discussions and reflections on moral and spiritual teachings.",
+          "Develop an understanding of the historical and cultural context of Quranic revelations.",
+          "Connect Quranic teachings with everyday life situations and ethical decision-making."
+        ]
+      },
+      {
+        "category": "High School",
+        "title": "Advanced Quranic Studies",
+        "imageHref": "https://i.ibb.co/vkt8C1P/image-02.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Challenge yourself with our High School Quranic Studies program, designed for students seeking a deeper understanding of advanced Quranic concepts, interpretation, and application. This program prepares students for a comprehensive understanding of the Quranic teachings.",
+        "highlights": [
+          "Study selected Surahs with in-depth tafsir (interpretation) and reflection.",
+          "Engage in discussions on complex ethical and theological aspects of the Quran.",
+          "Explore the science of Quranic exegesis and interpretation.",
+          "Apply Quranic teachings to contemporary issues and challenges."
+        ]
+      },
+      {
+        "category": "Higher Secondary School",
+        "title": "Mastery in Quranic Sciences",
+        "imageHref": "https://i.ibb.co/3FKqS1G/image-03.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Achieve mastery in Quranic Sciences with our Higher Secondary School program. Tailored for students preparing for advanced studies, this course focuses on in-depth Quranic studies, interpretation, and preparing for academic pursuits in Islamic studies.",
+        "highlights": [
+          "Master the principles of Quranic exegesis and tafsir.",
+          "Engage in advanced discussions on Quranic sciences and Islamic jurisprudence.",
+          "Explore the historical development of Islamic thought and scholarly traditions.",
+          "Prepare for higher education in Islamic studies and contribute to the understanding of Quranic sciences."
+        ]
+      }
+    ]
+  },
+  {
+    "courseTitle": "Mathematics",
+    "refrence": "/mathematics",
+    "imageSource": "/Assets/Math.png",
+    "alt": "image of Math course",
+    "image": "/Assets/Math-03.jpg",
+    "Coursedetails": [
+      {
+        "category": "Primary School",
+        "title": "Foundations of Mathematics",
+        "overview": "Build a strong foundation in mathematics with our Primary School program. This course is designed to introduce and develop essential math skills in a fun and interactive way, laying the groundwork for future mathematical success.",
+        "highlights": [
+          "Cover fundamental concepts in arithmetic, geometry, and basic problem-solving.",
+          "Engage in hands-on activities and interactive lessons to foster a love for math.",
+          "Develop critical thinking and logical reasoning skills from an early age.",
+          "Encourage mathematical curiosity through games, puzzles, and real-life applications.",
+          "Build a solid foundation for future math learning and problem-solving."
+        ]
+      },
+      {
+        "category": "Middle School",
+        "title": "Explorations in Mathematics",
+        "imageHref": "https://i.ibb.co/PT7ghRs/image-06.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Explore the fascinating world of mathematics in our Middle School program. This course goes beyond the basics, delving into more advanced mathematical concepts and encouraging students to discover the beauty of mathematical reasoning.",
+        "highlights": [
+          "Cover advanced topics in algebra, geometry, and mathematical problem-solving.",
+          "Engage in interactive lessons and exploratory activities to deepen mathematical understanding.",
+          "Develop analytical and critical thinking skills through challenging math problems.",
+          "Apply mathematical concepts to real-world scenarios and practical applications."
+        ]
+      },
+      {
+        "category": "High School",
+        "title": "Advanced Mathematics Studies",
+        "imageHref": "https://i.ibb.co/vkt8C1P/image-02.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Challenge yourself with our High School Mathematics Studies program, designed for students seeking a deeper understanding of advanced mathematical concepts. This program prepares students for higher education and careers in STEM fields.",
+        "highlights": [
+          "Master advanced topics in calculus, statistics, and mathematical modeling.",
+          "Engage in in-depth problem-solving and mathematical proofs.",
+          "Develop mathematical research and presentation skills.",
+          "Prepare for higher education and careers in mathematics and related fields."
+        ]
+      },
+      {
+        "category": "Higher Secondary School",
+        "title": "Mathematics Mastery",
+        "imageHref": "https://i.ibb.co/3FKqS1G/image-03.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Achieve mastery in mathematics with our Higher Secondary School program. Tailored for students preparing for advanced studies, this course focuses on mastering complex mathematical concepts and preparing for standardized exams.",
+        "highlights": [
+          "Perfect your command of advanced calculus, linear algebra, and mathematical reasoning.",
+          "Engage in mathematical research projects and applications.",
+          "Hone problem-solving skills through challenging mathematical scenarios.",
+          "Prepare for standardized math exams with targeted exam strategies and practice."
+        ]
+      }
+    ]
+  },
+  {
+    "courseTitle": "Chemistry",
+    "refrence": "/chemistry",
+    "imageSource": "/Assets/Chemsitory-01.jpg",
+    "alt": "image of Chemistry course",
+    "image": "/Assets/Chemistory-02.jpg",
+
+    "Coursedetails": [
+      {
+        "category": "Primary School",
+        "title": "Discovering Chemistry Wonders",
+        "overview": "Spark curiosity about the world of atoms and molecules with our Primary School Chemistry program. This course introduces young learners to the wonders of chemistry through engaging experiments, interactive lessons, and hands-on exploration.",
+        "highlights": [
+          "Explore basic concepts of atoms, molecules, and simple chemical reactions.",
+          "Engage in hands-on experiments and interactive lessons to foster a love for chemistry.",
+          "Develop foundational scientific skills through observation and exploration.",
+          "Encourage curiosity through exciting chemistry demonstrations and activities."
+        ]
+      },
+      {
+        "category": "Middle School",
+        "title": "Adventures in Chemistry Exploration",
+        "imageHref": "https://i.ibb.co/PT7ghRs/image-06.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Embark on adventures in chemistry exploration with our Middle School program. This course delves into more advanced chemistry concepts, encouraging students to question, experiment, and discover the principles that govern the composition of matter.",
+        "highlights": [
+          "Explore the principles of chemical reactions, periodic table, and molecular structures.",
+          "Engage in hands-on experiments and scientific inquiry to deepen understanding.",
+          "Develop critical thinking skills through chemistry problem-solving.",
+          "Apply chemistry concepts to real-world scenarios and practical applications."
+        ]
+      },
+      {
+        "category": "High School",
+        "title": "Advanced Chemistry Studies",
+        "imageHref": "https://i.ibb.co/vkt8C1P/image-02.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Challenge yourself with our High School Chemistry Studies program, designed for students seeking a deeper understanding of advanced chemistry principles. This program prepares students for higher education and careers in STEM fields.",
+        "highlights": [
+          "Master advanced topics in organic chemistry, biochemistry, and physical chemistry.",
+          "Engage in in-depth experiments, laboratory research, and theoretical chemistry.",
+          "Develop scientific research and presentation skills.",
+          "Prepare for higher education and careers in chemistry and related fields."
+        ]
+      },
+      {
+        "category": "Higher Secondary School",
+        "title": "Chemistry Mastery",
+        "imageHref": "https://i.ibb.co/3FKqS1G/image-03.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Achieve mastery in chemistry with our Higher Secondary School program. Tailored for students preparing for advanced studies, this course focuses on mastering complex chemistry concepts and preparing for standardized exams.",
+        "highlights": [
+          "Perfect your command of advanced chemical reactions, quantum chemistry, and analytical chemistry.",
+          "Engage in advanced scientific research projects and applications.",
+          "Hone problem-solving skills through challenging chemistry scenarios.",
+          "Prepare for standardized chemistry exams with targeted exam strategies and practice."
+        ]
+      }
+    ]
+  },
+  {
+    "courseTitle": "English",
+    "refrence": "/english",
+    "imageSource": "/Assets/english.png",
+    "alt": "image of English course",
+    "image": "/Assets/English-03.jpg",
+    "Coursedetails": [
+      {
+        "category": "Primary School",
+        "title": "Foundations of English Language",
+        "overview": "Embark on a journey to master the English language with our Foundations program designed for primary school students. This course lays the groundwork for language skills through interactive and engaging lessons.",
+        "highlights": [
+          "Progress through a well-structured curriculum covering basic to advanced English language skills.",
+          "Experience interactive lessons, captivating videos, and hands-on activities for immersive learning.",
+          "Develop strong reading, writing, speaking, and listening skills through practical applications.",
+          "Build a solid linguistic foundation with focused lessons on grammar and vocabulary.",
+          "Explore the richness of English literature and enhance language skills through discussions and projects."
+        ]
+      },
+      {
+        "category": "Middle School",
+        "title": "Explorations in English Language",
+        "imageHref": "https://i.ibb.co/PT7ghRs/image-06.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Delve deeper into the beauty of the English language in our Middle School program. This course offers exploratory studies, combining language skills with cultural insights and encouraging curiosity in language learning.",
+        "highlights": [
+          "Explore advanced topics in English grammar, vocabulary, and literature.",
+          "Engage in immersive learning experiences through multimedia resources.",
+          "Develop conversational skills with interactive activities and group discussions.",
+          "Enhance writing proficiency through creative projects and written assignments."
+        ]
+      },
+      {
+        "category": "High School",
+        "title": "Advanced English Studies",
+        "imageHref": "https://i.ibb.co/vkt8C1P/image-02.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Challenge yourself with our High School English Studies program, designed for students seeking advanced language proficiency. This program delves into complex linguistic concepts, literature, and critical thinking in English language studies.",
+        "highlights": [
+          "Master advanced grammar structures and expand your English vocabulary.",
+          "Participate in in-depth discussions on literature, current events, and cultural topics.",
+          "Refine writing skills through essays, research projects, and creative writing.",
+          "Prepare for higher education language requirements with comprehensive language training."
+        ]
+      },
+      {
+        "category": "Higher Secondary School",
+        "title": "English Language Mastery",
+        "imageHref": "https://i.ibb.co/3FKqS1G/image-03.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Achieve language mastery in English with our Higher Secondary School program. Tailored for students preparing for higher education, this course focuses on advanced language skills, literature analysis, and preparation for standardized exams.",
+        "highlights": [
+          "Perfect your command of English grammar, syntax, and complex linguistic structures.",
+          "Engage in critical analysis of English literature, history, and contemporary issues.",
+          "Hone advanced writing skills through academic essays, research papers, and literary analysis.",
+          "Prepare for standardized language exams with targeted exam strategies and practice."
+        ]
+      }
+    ]
+  },
+  {
+    "courseTitle": "Physics",
+    "refrence": "/physics",
+    "imageSource": "/Assets/Physics.png",
+    "alt": "image of Physics course",
+    "image": "/Assets/Physics-01.jpg",
+    "Coursedetails": [
+      {
+        "category": "Primary School",
+        "title": "Introduction to Physics Wonders",
+        "overview": "Ignite curiosity about the physical world with our Primary School Physics program. This course introduces young minds to the wonders of physics through engaging experiments, interactive lessons, and a hands-on approach to learning.",
+        "highlights": [
+          "Explore basic concepts of motion, energy, and simple scientific experiments.",
+          "Engage in interactive lessons and hands-on experiments to foster a love for physics.",
+          "Develop foundational scientific skills through observation and exploration.",
+          "Encourage curiosity through exciting physics demonstrations and activities."
+        ]
+      },
+      {
+        "category": "Middle School",
+        "title": "Adventures in Physics Exploration",
+        "imageHref": "https://i.ibb.co/PT7ghRs/image-06.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Embark on adventures in physics exploration with our Middle School program. This course delves into more advanced physics concepts, encouraging students to question, experiment, and discover the principles that govern the physical world.",
+        "highlights": [
+          "Explore the principles of mechanics, electricity, and magnetism.",
+          "Engage in hands-on experiments and scientific inquiry to deepen understanding.",
+          "Develop critical thinking skills through physics problem-solving.",
+          "Apply physics concepts to real-world scenarios and practical applications."
+        ]
+      },
+      {
+        "category": "High School",
+        "title": "Advanced Physics Studies",
+        "imageHref": "https://i.ibb.co/vkt8C1P/image-02.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Challenge yourself with our High School Physics Studies program, designed for students seeking a deeper understanding of advanced physics principles. This program prepares students for higher education and careers in STEM fields.",
+        "highlights": [
+          "Master advanced topics in classical mechanics, thermodynamics, and electromagnetism.",
+          "Engage in in-depth experiments, scientific research, and theoretical physics.",
+          "Develop scientific research and presentation skills.",
+          "Prepare for higher education and careers in physics and related fields."
+        ]
+      },
+      {
+        "category": "Higher Secondary School",
+        "title": "Physics Mastery",
+        "imageHref": "https://i.ibb.co/3FKqS1G/image-03.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Achieve mastery in physics with our Higher Secondary School program. Tailored for students preparing for advanced studies, this course focuses on mastering complex physics concepts and preparing for standardized exams.",
+        "highlights": [
+          "Perfect your command of quantum mechanics, relativity, and advanced physics topics.",
+          "Engage in advanced scientific research projects and applications.",
+          "Hone problem-solving skills through challenging physics scenarios.",
+          "Prepare for standardized physics exams with targeted exam strategies and practice."
+        ]
+      }
+    ]
+  },
+  {
+    "courseTitle": "Urdu",
+    "refrence": "/urdu",
+    "imageSource": "/Assets/Urdu-02.jpg",
+    "alt": "image of Urdu course",
+    "image": "/Assets/Urdu.png",
+    "Coursedetails": [
+      {
+        "category": "Primary School",
+        "title": "Foundations of Urdu Language",
+        "overview": "Introduce young learners to the beauty of Urdu language with our Primary School Urdu program. This course focuses on building a strong foundation in Urdu language skills through interactive lessons, stories, and cultural exploration.",
+        "highlights": [
+          "Learn basic Urdu vocabulary, alphabets, and common phrases.",
+          "Engage in interactive storytelling and language games to enhance learning.",
+          "Develop foundational language skills, including reading, writing, and speaking.",
+          "Explore Urdu culture through literature, poetry, and traditional stories."
+        ]
+      },
+      {
+        "category": "Middle School",
+        "title": "Explorations in Urdu Literature",
+        "imageHref": "https://i.ibb.co/PT7ghRs/image-06.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Dive deeper into Urdu literature with our Middle School program. This course explores advanced Urdu language concepts, literature, and encourages students to appreciate the rich cultural heritage embedded in the Urdu language.",
+        "highlights": [
+          "Explore classical and contemporary Urdu literature.",
+          "Engage in poetry analysis, discussions, and literary activities.",
+          "Develop advanced language skills through reading and writing assignments.",
+          "Connect with Urdu culture through literature and creative projects."
+        ]
+      },
+      {
+        "category": "High School",
+        "title": "Advanced Urdu Studies",
+        "imageHref": "https://i.ibb.co/vkt8C1P/image-02.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Challenge yourself with our High School Urdu Studies program, designed for students seeking advanced proficiency in the Urdu language. This program delves into complex linguistic concepts, literature, and critical thinking in Urdu studies.",
+        "highlights": [
+          "Master advanced Urdu grammar, syntax, and linguistic structures.",
+          "Explore classical and modern Urdu literature in depth.",
+          "Refine writing skills through essays, research projects, and creative writing.",
+          "Prepare for higher education language requirements with comprehensive language training."
+        ]
+      },
+      {
+        "category": "Higher Secondary School",
+        "title": "Urdu Language Mastery",
+        "imageHref": "https://i.ibb.co/3FKqS1G/image-03.jpg",
+        "button": "Read Details",
+        "buttonHref": "#",
+        "overview": "Achieve language mastery in Urdu with our Higher Secondary School program. Tailored for students preparing for higher education, this course focuses on advanced language skills, literature, and preparation for standardized exams.",
+        "highlights": [
+          "Perfect your command of advanced Urdu grammar, poetry, and linguistic structures.",
+          "Engage in critical analysis of Urdu literature, history, and contemporary issues.",
+          "Hone advanced writing skills through academic essays, research papers, and literary analysis.",
+          "Prepare for standardized language exams with targeted exam strategies and practice."
+        ]
+      }
+    ]
+  }
+]

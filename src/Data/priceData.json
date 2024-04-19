@@ -1,0 +1,35 @@
+[
+  {
+    "planeTitle": "Free",
+    "planePrice": "0",
+    "planeFeatures": {
+      "1": "Access to 1 Free Demo Tuition",
+      "2": "Group Tutoring Sessions",
+      "3": "Flexible Learning Schedule",
+      "4": "Automated Class Reminders",
+      "5": "Experienced Tutors"
+    }
+  },
+  {
+    "planeTitle": "Basic",
+    "planePrice": "5",
+    "planeFeatures": {
+      "1": "Access to 1 Free Demo Tuition",
+      "2": "One-on-One Tutoring",
+      "3": "Personalized Learning Schedule",
+      "4": "Class Progress Tracking",
+      "5": "Expert Subject-Specific Tutors"
+    }
+  },
+  {
+    "planeTitle": "premium",
+    "planePrice": "10",
+    "planeFeatures": {
+      "1": "Access to 2 Free Demo Tuitions",
+      "2": "Individualized Tutoring Sessions",
+      "3": "Customized Learning Schedule",
+      "4": "Priority Class Reminders",
+      "5": "Advanced Subject Specialists"
+    }
+  }
+]
