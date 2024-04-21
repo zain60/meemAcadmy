@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import Typed from "typed.js";
-import Image from "next/image";
 import Reviews from "../Components/Home/Reviews";
 import Tutors from "../Components/Home/Tutors";
 import CustomButton from "../Components/Button/CustomButton";
