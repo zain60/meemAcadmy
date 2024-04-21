@@ -11,7 +11,7 @@ export default function MobileHeader() {
   };
 
   return (
-    <div className="flex  fixed  right-0 left-0  items-center justify-between border-b border-gray-400 py-8  backdrop-blur-sm ">
+    <div className="flex fixed right-0 left-0  items-center justify-between border-b border-gray-400 py-8  backdrop-blur-sm ">
       <a href="/">
         <Logo />
       </a>
