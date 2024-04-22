@@ -7,7 +7,7 @@ const page = () => {
     <div className=" pb-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-4 gap-20 pt-36 mx-10 ">
       {Data.map((data, i) => {
         return (
-          <div className=" bg-base-100 shadow-red-950 shadow-2xl rounded-xl  ">
+          <div key={i}  className=" bg-base-100 shadow-red-950 shadow-2xl rounded-xl  ">
             <figure>
               <img
                 src={data.imageSource}
