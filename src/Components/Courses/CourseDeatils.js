@@ -1,6 +1,5 @@
 "use client";
 import React, { useState } from "react";
-import Data from "../../Data/corseData.json";
 import DetailsCard from "./DetailsCard";
 
 const CourseDetails = ({ courseDetails }) => {
