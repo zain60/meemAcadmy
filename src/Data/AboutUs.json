@@ -11,24 +11,9 @@
   },
   "teamMembers": [
     {
-      "name": "Alexa",
-      "image": "https://i.ibb.co/FYTKDG6/Rectangle-118-2.png",
-      "imageAlt": "Alexa featured Img"
-    },
-    {
-      "name": "Olivia",
-      "image": "https://i.ibb.co/fGmxhVy/Rectangle-119.png",
-      "imageAlt": "Olivia featured Img"
-    },
-    {
-      "name": "Liam",
-      "image": "https://i.ibb.co/Pc6XVVC/Rectangle-120.png",
-      "imageAlt": "Liam featued Img"
-    },
-    {
-      "name": "Elijah",
-      "image": "https://i.ibb.co/7nSJPXQ/Rectangle-121.png",
-      "imageAlt": "Elijah featured img"
+      "name": "omama",
+      "image": "",
+      "imageAlt": "a"
     }
   ],
   "teamMembersSpecial": [
@@ -38,18 +23,6 @@
       "role": "Chief Executive Officer",
       "description": "The CEO's role in raising a company's corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.",
       "image": "/Assets/Tutor-1.png",
-      "social": {
-        "github": "https://github.com/example1",
-        "twitter": "https://twitter.com/example1",
-        "instagram": "https://instagram.com/example1"
-      }
-    },
-    {
-      "id": "2",
-      "name": "Andres Berlin",
-      "role": "Chief Executive Officer",
-      "description": "The CEO's role in raising a company's corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.",
-      "image": "https://cdn.tuk.dev/assets/photo-1564061170517-d3907caa96ea.jfif",
       "social": {
         "github": "https://github.com/example1",
         "twitter": "https://twitter.com/example1",
