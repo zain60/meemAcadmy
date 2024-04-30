@@ -12,7 +12,7 @@ const Page = () => {
           <h1 className="text-3xl lg:text-4xl font-bold leading-9 text-gray-800 pb-4">
             {aboutUs.title}
           </h1>
-          <p className="font-normal text-base lg:text-3xl leading-6 text-gray-600 ">
+          <p className="font-normal text-base lg:text-2xl leading-6 text-gray-600 ">
             {aboutUs.content}
           </p>
         </div>
@@ -30,7 +30,7 @@ const Page = () => {
           <h1 className="text-3xl lg:text-5xl font-bold leading-9 text-gray-800 pb-4">
             {ourStory.title}
           </h1>
-          <p className="font-normal text-base lg:text-3xl leading-6 text-gray-600 ">
+          <p className="font-normal text-base lg:text-2xl leading-6 text-gray-600 ">
             {ourStory.content}
           </p>
         </div>
