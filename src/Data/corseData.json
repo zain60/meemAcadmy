@@ -67,7 +67,7 @@
     "refrence": "/quran",
     "imageSource": "/Assets/Quran-01.jpg",
     "alt": "image of Quranic Studies course",
-    "image": "/Assets/Quran.png",
+    "image": "/Assets/Quran-02.jpg",
     "Coursedetails": [
       {
         "category": "Primary School",
@@ -316,7 +316,7 @@
   {
     "courseTitle": "Physics",
     "refrence": "/physics",
-    "imageSource": "/Assets/Physics.png",
+    "imageSource": "/Assets/physics.png",
     "alt": "image of Physics course",
     "image": "/Assets/Physics-01.jpg",
     "Coursedetails": [
@@ -380,7 +380,7 @@
     "refrence": "/urdu",
     "imageSource": "/Assets/Urdu-02.jpg",
     "alt": "image of Urdu course",
-    "image": "/Assets/Urdu.png",
+    "image": "/Assets/Urdu-01.png",
     "Coursedetails": [
       {
         "category": "Primary School",
